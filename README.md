@@ -4,7 +4,7 @@
 
 1. Создать публичный репозиторий с названием **lab01** и с лиценцией **MIT**
 2. Сгенирировать токен для доступа к сервису **GitHub** с правами **repo**
-3. Составить отчет и отправить ссылку преподаватель
+3. Составить отчет и отправить ссылку преподавателю
 
 ## Tutorial
 
@@ -44,7 +44,7 @@ $ git pull origin master
 $ touch README.md
 $ git status
 $ git add README.md
-$ git commit -m"added README.md"
+$ git commit -m "added README.md"
 $ git push origin master
 ```
 
