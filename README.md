@@ -33,7 +33,7 @@ $ git config --global hub.protocol https
 ```
 
 ```sh
-$ mkdir projects/lab01 && cd projects/lab01
+$ mkdir -p projects/lab01 && cd projects/lab01
 $ git init
 $ git config --global user.name ${GITHUB_USERNAME}
 $ git config --global user.email ${GITHUB_EMAIL}
