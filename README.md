@@ -16,7 +16,7 @@ $ alias edit=<nano|vi|vim|subl>
 ```
 
 ```sh
-$ mkdir ${GITHUB_USERNAME}/workspace
+$ mkdir -p ${GITHUB_USERNAME}/workspace
 $ cd ${GITHUB_USERNAME}/workspace
 $ source scripts/activate
 ```
